@@ -1,5 +1,18 @@
+# Virtual environment
+.venv/
+
+# Environment variables
 .env
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# macOS
 .DS_Store
 
-.venv
+# Chroma database
+chroma_db/
